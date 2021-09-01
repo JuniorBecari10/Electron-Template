@@ -11,8 +11,7 @@ Not much to do here, simply clone this repository on your computer, and create y
 > Note: You must have installed Node.js and npm on your computer.
 >
 > To test if these two are installed, run:
-> **node -v**
-> **npm -v**
+> **node -v**, and **npm -v**.
 >
 > If doesn't throw any error, these are installed correctly.
 
