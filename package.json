@@ -1,7 +1,7 @@
 {
-  "name": "my-electron-app",
+  "name": "Electron-Template",
   "version": "1.0.0",
-  "description": "meu app com electron",
+  "description": "Template for Electron app.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."

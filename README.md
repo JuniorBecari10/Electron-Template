@@ -1,5 +1,7 @@
 # Electron-Template
 
+Template for creating your Electron projects. Don't forget to edit the package.json file!
+
 ## Installation
 
 Run the command **npm install --save-dev electron**
