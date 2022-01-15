@@ -4,3 +4,51 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+header {
+    border-bottom: 1px solid black;
+    height: 35px;
+}
+
+header * {
+    margin: 5px;
+}
+
+header input {
+    width: calc(100% - 50px);
+    padding: 2px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+webview {
+    width: 100%;
+    height: calc(100vh - 39px);
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    
+    25% {
+        transform: rotate(90deg);
+    }
+    
+    50% {
+        transform: rotate(180deg);
+    }
+    
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.rotate {
+    animation: rotate 2s infinite linear;
+}
+
+/* Colorir from, to e rotate em CSS */
